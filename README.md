@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Systems+Engineer;Enterprise+Migration+Specialist;LLM+%26+RAG+Expert;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI%2FML+Developer;DevOps+Automation;Full-Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,203 +14,170 @@
 
 ---
 
-## 🎯 **Engineering Philosophy**
+## 🚀 About Me
 
 ```python
-class SystemsEngineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Swami Buddha Chaitanya"
-        self.role = "Software Engineer @ BlueYonder (Panasonic)"
-        self.mission = "Transforming enterprise workflows through intelligent automation"
-        self.specialization = "Building production-grade AI systems that scale"
+        self.role = "Software Engineer @ BlueYonder"
+        self.location = "Chhattisgarh, India"
+        self.focus = "Building AI systems and automation tools"
         
-    def get_impact_metrics(self):
+    def get_experience(self):
         return {
-            "migration_acceleration": "6+ months → 2-3 weeks",
-            "enterprise_clients": ["Polaris", "Meritor", "Fortune 500"],
-            "system_accuracy": "85%+ automated precision",
-            "debugging_efficiency": "60% reduction in resolution time"
+            "ai_ml": ["LangChain", "RAG", "LLMs", "Deep Learning", "FAISS"],
+            "backend": ["Python", "Node.js", "Express.js", "Django"],
+            "frontend": ["React", "TypeScript", "Next.js"],
+            "devops": ["Azure", "Docker", "CI/CD", "GitHub Actions"],
+            "databases": ["MongoDB", "PostgreSQL", "Snowflake", "ChromaDB"]
         }
         
-    def current_focus(self):
-        return "Scaling LLM systems for Fortune 500 enterprise migrations 🚀"
+    def current_work(self):
+        return "Working on enterprise database migrations and LLM-based tools"
 
-engineer = SystemsEngineer()
+engineer = SoftwareEngineer()
 ```
 
 ---
 
-## 🏆 **Enterprise Impact & Technical Excellence**
+## 💼 Work Experience
 
-<div align="center">
-
-| 🎯 **Business Impact** | 📊 **System Performance** | 🌟 **Professional Growth** |
-|:---:|:---:|:---:|
-| **Fortune 500 Clients** | **99.9% System Uptime** | **GATE 2022: 98.86%ile** |
-| **6mo → 3wk Migrations** | **1000+ Daily AI Requests** | **M.Eng Computer Science** |
-| **Zero Production Issues** | **85% Automation Accuracy** | **BlueYonder Promotion** |
-
-</div>
-
----
-
-## 💼 **Professional Experience**
-
-### 🚀 **Software Engineer I @ BlueYonder (Panasonic)**
-**Enterprise AI Migration Systems** *(Jun 2025 - Present)*
+### 🔧 **Software Engineer I @ BlueYonder**
+**AI-Powered Database Migration** *(Jun 2025 - Present)*
 
 ```yaml
 project: "CIM - Cognitive Integration Migration"
-challenge: "Enterprise Oracle→Snowflake migrations taking 6+ months"
-innovation: "8-phase AI automation framework with LLM-powered code generation"
-business_impact:
-  - timeline_reduction: "6+ months → 2-3 weeks"
-  - client_adoption: "Polaris Industries, Meritor, Enterprise Fortune 500"
-  - system_accuracy: "85%+ automated precision"
-  - operational_excellence: "Zero manual errors, full functionality preservation"
-tech_architecture: ["GPT-4o", "LangChain", "Oracle", "Snowflake", "Azure ML"]
+what_i_built: "AI system that automates Oracle to Snowflake database migrations"
+my_contribution:
+  - built_8_phase_automation: "Framework to extract business logic and generate code"
+  - reduced_migration_time: "From 6+ months to 2-3 weeks for enterprise clients"
+  - achieved_accuracy: "85%+ automated precision with minimal manual intervention"
+tech_used: ["Python", "LangChain", "GPT-4", "Oracle", "Snowflake", "Azure ML"]
+note: "Work done as part of BlueYonder's client solutions team"
 ```
 
 ### ⚡ **Associate Software Engineer @ BlueYonder**
-**Multi-System AI Platform Development** *(June 2024 - May 2025)*
+**Multiple AI Projects** *(June 2024 - May 2025)*
 
 <details>
-<summary><strong>🔍 Expand Core Technical Achievements</strong></summary>
+<summary><strong>🔍 Key Projects I Worked On</strong></summary>
 
-#### 🧠 **Cognitive Integration Generator (CIG)**
-```bash
-├── 🔍 LLM Observability: Langfuse integration tracking 1000+ daily requests
-├── 🤖 AIOps Validation: 17+ entity types with precision/recall metrics
-├── ⚡ DevOps Automation: 2 hours → 15 minutes deployment pipeline
-├── 🧪 Test Automation: FitNesse framework, 85% manual testing reduction
-└── 🛡️ Security Integration: BlackDuck scanning + automated compliance
-```
+#### 🧠 **Cognitive Integration Generator**
+- Built LLM observability system with Langfuse tracking 1000+ daily AI requests
+- Created AIOps validation pipeline processing 17+ entity types
+- Automated CI/CD deployment reducing time from 2 hours to 15 minutes
+- Implemented FitNesse test automation, cutting manual testing by 85%
 
 #### 💬 **Supply Chain Planning Agent**
-```bash
-├── 🎯 Problem: Semiconductor supply chain insights locked behind SQL complexity
-├── 🧠 Solution: GPT-4o conversational interface with vector embeddings
-├── 📊 Architecture: HuggingFace embeddings + conversation memory + SQL generation
-├── 🚀 Performance: 95% contextual accuracy, 70% faster insight retrieval
-└── 💼 Impact: Democratized data access for non-technical stakeholders
-```
+- Developed conversational AI using GPT-4o for supply chain data queries
+- Integrated vector embeddings and SQL generation for natural language queries
+- Achieved 95% accuracy in contextual responses, 70% faster insights
 
 #### 🔍 **Root Cause Analysis System**
-```bash
-├── 🎯 Challenge: GitHub Actions failures causing extended debugging cycles
-├── 🤖 Innovation: AI agents + graph RAG for intelligent failure analysis
-├── 📈 Results: 60% debugging time reduction with 85% accuracy
-├── 🔔 Smart Notifications: Context-aware stakeholder alerting system
-└── 🏆 Outcome: Proactive issue resolution, improved system reliability
-```
+- Built automated failure analysis for GitHub Actions workflows
+- Used AI agents and graph RAG for intelligent error detection
+- Reduced debugging time by 60% with 85% accuracy in failure identification
 
 </details>
 
-### 🎓 **Research Experience @ BITS Pilani & CommerceIQ**
-**Advanced ML Systems** *(Feb 2023 - Jun 2023)*
+### 🎓 **Research Assistant @ BITS Pilani**
+**Product Recommendation System** *(Feb 2023 - Jun 2023)*
 
-```yaml
-project: "Product Similarity Finder"
-scope: "Multimodal recommendation engine for e-commerce optimization"
-technical_achievement: "98% accuracy in product similarity matching using FAISS"
-innovation: "Combined image and text processing with deep learning models"
-scale: "180+ product attributes processed in real-time"
-```
+- Developed multimodal recommendation engine for CommerceIQ
+- Processed 180+ product attributes using deep learning models
+- Achieved 98% accuracy in product similarity matching with FAISS framework
 
 ---
 
-## 🛠️ **Technical Stack & Architecture**
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **🤖 AI/ML Engineering**
-![Python](https://img.shields.io/badge/Python-Production-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Enterprise-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o-Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-FF6B6B?style=for-the-badge&logo=meta&logoColor=white)
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### **☁️ Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-Enterprise-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### **Frontend & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### **💻 Full-Stack Development**
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Production-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Framework-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### **AI/ML & Data**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **📊 Data Systems**
-![Snowflake](https://img.shields.io/badge/Snowflake-Data_Warehouse-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Document_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-FF4B4B?style=for-the-badge&logo=database&logoColor=white)
+### **DevOps & Cloud**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ **Featured Projects & Technical Innovation**
+## 🏗️ Projects
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🤖 **Multi-Agent Observability Platform**
+#### 🤖 **SwarmSight**
+Multi-agent system with end-to-end observability
 ```bash
-# SwarmSight - Production AI Coordination
-├── 🧠 Multi-agent system architecture
-├── 📊 End-to-end observability pipeline
-├── 🔍 Real-time performance monitoring
-└── 📈 Advanced analytics dashboard
+├── 🧠 Coordinated AI agents
+├── 📊 Real-time monitoring
+├── 🔍 Performance tracking
+└── 📈 Analytics dashboard
 ```
-**Stack:** Python, LangChain, Monitoring Infrastructure
-[View Project →](https://github.com/swamibuddhachaitanya/multiagent-with-observability)
+**Tech:** Python, LangChain
 
 </td>
 <td width="50%">
 
-#### 💳 **Enterprise Payment System**
+#### 💳 **Digital Wallet**
+Paytm-inspired payment system
 ```bash
-# Paytm-inspired Secure Wallet
-├── 🔐 Bank-grade security implementation
-├── 💰 Real-time transaction processing
-├── 🏦 Multi-bank integration layer
-└── 📱 Responsive mobile-first UI
+├── 🔐 Secure authentication
+├── 💰 Transaction processing
+├── 🏦 Bank integration
+└── 📱 Responsive UI
 ```
-**Stack:** Next.js, Express.js, Prisma, PostgreSQL
-[View Project →](https://github.com/swamibuddhachaitanya/Paytm-Clone)
+**Tech:** Next.js, Express.js, Prisma
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🎥 **WebRTC Video Platform**
+#### 🎥 **Video Conferencing**
+WebRTC-based communication platform
 ```bash
-# Enterprise Video Conferencing
-├── 👥 Multi-participant architecture
-├── 🔄 P2P real-time communication  
-├── 🌐 Scalable WebRTC implementation
-└── 📹 HD video quality optimization
+├── 👥 Multi-participant calls
+├── 🔄 P2P communication
+├── 📹 HD video quality
+└── ⚡ Low latency
 ```
-**Stack:** WebRTC, PeerJS, TypeScript, Node.js
-[View Project →](https://github.com/swamibuddhachaitanya/webrtc-peerjs-video-conferencing)
+**Tech:** WebRTC, PeerJS, TypeScript
 
 </td>
 <td width="50%">
 
-#### 📄 **AI Document Intelligence**
+#### 📄 **AI Document Chat**
+Intelligent PDF processing system
 ```bash
-# Intelligent PDF Processing System
-├── 🧠 Google Gemini AI integration
-├── 🔍 ChromaDB vector storage
-├── 💬 LangChain conversation flow
-└── 🎯 Accurate document Q&A
+├── 🧠 Gemini AI integration
+├── 🔍 Vector search (Chroma)
+├── 💬 Natural conversation
+└── 🎯 Accurate answers
 ```
-**Stack:** Python, Gemini AI, ChromaDB, LangChain
-[View Project →](https://github.com/swamibuddhachaitanya/AI-chat-bot)
+**Tech:** Python, Gemini AI, ChromaDB
 
 </td>
 </tr>
@@ -218,12 +185,12 @@ scale: "180+ product attributes processed in real-time"
 
 ---
 
-## 📊 **Engineering Analytics & Growth**
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swamibuddhachaitanya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamibuddhachaitanya&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamibuddhachaitanya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -235,52 +202,33 @@ scale: "180+ product attributes processed in real-time"
 
 ---
 
-## 🎓 **Academic Excellence & Professional Development**
+## 🎓 Education & Certifications
 
 <div align="center">
 
-| 🏆 **Academic Achievement** | 🎯 **Professional Training** | 📊 **Recognition** |
+| **Education** | **Certifications** | **Achievements** |
 |:---:|:---:|:---:|
-| **M.Eng Computer Science** | **DeepLearning.AI Specialization** | **GATE 2022: 98.86%ile** |
-| BITS Pilani (2022-2024) | Generative AI with LLMs | **GATE 2021: 96.06%ile** |
-| **B.Tech Computer Science** | **100xDevs Full-Stack Cohort** | **Enterprise Promotion** |
+| **M.Eng Computer Science** | **DeepLearning.AI** | **GATE 2022: 98.86%** |
+| BITS Pilani (2022-2024) | Generative AI with LLMs | **GATE 2021: 96.06%** |
+| **B.Tech Computer Science** | **100xDevs Cohort** | **Full-Stack Development** |
 
 </div>
 
 ---
 
-## 🚀 **2025 Professional Roadmap**
-
-```yaml
-current_focus:
-  - enterprise_ai_scaling: "Multi-tenant LLM infrastructure for Fortune 500"
-  - system_architecture: "Microservices patterns for AI workloads"
-  - technical_leadership: "Mentoring junior engineers in AI/DevOps"
-  
-upcoming_goals:
-  - open_source_contributions: "Contributing to major ML/AI frameworks"
-  - conference_speaking: "Sharing enterprise AI migration insights"
-  - technical_writing: "Publishing system architecture articles"
-  - community_building: "Leading AI/ML engineering discussions"
-```
-
----
-
-## 🤝 **Professional Network & Collaboration**
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaiitanyacodes/)
-[![Twitter](https://img.shields.io/badge/Technical_Insights-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ChaiitanyaCodes)
-[![Hashnode](https://img.shields.io/badge/Technical_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://chaiitanyacodes.hashnode.dev/)
-[![Email](https://img.shields.io/badge/Let's_Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanya.swami04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaiitanyacodes/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ChaiitanyaCodes)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://chaiitanyacodes.hashnode.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanya.swami04@gmail.com)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-**💡 "Building tomorrow's enterprise systems with today's cutting-edge AI"**
-
-*Transforming complex business challenges into elegant technical solutions* 🚀
+**"Building useful software, one project at a time"** 🚀
 
 </div>
